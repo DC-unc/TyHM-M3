@@ -1,4 +1,4 @@
-# TyHM-3
+# TyHM-M3
 Repositorio del Módulo 3 de Técnicas y Herramientas Modernas
 
 Nombre del Grupo: Teoría de Colas
